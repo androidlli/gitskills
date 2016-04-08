@@ -1,4 +1,3 @@
 # gitskills
-Creating a new branch is quick AND simple.add merge
-writing...
-Git is a free software ...
+Creating a new branch is quick AND simple.add merge and ok
+
